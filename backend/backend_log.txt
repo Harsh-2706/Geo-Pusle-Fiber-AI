@@ -1,0 +1,147 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\harsh\\OneDrive\\Desktop\\Harsh\\Python\\TANFINET Hackathon\\backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [20860] using StatReload
+INFO:     Started server process [23828]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:63577 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:51551 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:52939 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53699 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62947 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61160 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:58598 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:50469 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52670 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:55741 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57105 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:58937 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64966 - "GET /dashboard HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'services\synthetic_service.py'. Reloading...
+ C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62921 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62922 - "GET /dashboard?mode=heavy_monsoon HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62923 - "GET /dashboard?mode=cyclone_impact HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62924 - "GET /dashboard?mode=infrastructure_stress HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62925 - "GET /dashboard?mode=maintenance_neglect HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:59541 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62290 - "HEAD /dashboard HTTP/1.1" 405 Method Not Allowed
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:62290 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:55564 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51670 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:64252 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60664 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62241 - "GET /openapi.json HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:63048 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63048 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:59833 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:55207 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:50622 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:50622 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:53487 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:53487 - "GET /dashboard?mode=normal HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:50003 - "GET /dashboard?mode=heavy_monsoon HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:50003 - "GET /dashboard?mode=cyclone_impact HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:57165 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56392 - "HEAD /dashboard HTTP/1.1" 405 Method Not Allowed
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:56392 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:58678 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:58678 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:63474 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:64377 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58140 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:56654 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54002 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:57538 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49953 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:63899 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58197 - "GET /dashboard HTTP/1.1" 200 OK
+C:\Users\harsh\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+INFO:     127.0.0.1:51213 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54429 - "GET /dashboard HTTP/1.1" 200 OK

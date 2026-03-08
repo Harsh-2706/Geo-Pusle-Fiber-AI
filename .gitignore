@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Next.js
+.next/
+out/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+frontend_error.log
+frontend_log.txt
+frontend_restart.log
+ts_errors.txt
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Large data files
+synthetic_fiber_data.csv
+fiber_risk_map.html

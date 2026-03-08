@@ -1,0 +1,11 @@
+Model Accuracy (RF Binary Classification): 0.8980
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       506
+           1       0.92      0.87      0.89       494
+
+    accuracy                           0.90      1000
+   macro avg       0.90      0.90      0.90      1000
+weighted avg       0.90      0.90      0.90      1000
